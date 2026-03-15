@@ -1,29 +1,28 @@
 ---
-title: "My Postcard"
+title: Deborah Young
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/deborahyoung-"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/msdyoung21"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "mailto:deborah.young@lc.cuny.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
-
+My Name is Deborah Young, from Queens NY
 ## Education
 
-**University Name** | City, State
+Lehman College | Bronx, NY
 
-B.S. in Subject | Year - Year
+B.S. in Sociology | 2025 - 
 
 ## Experience
 
-**Company Name** | Position | Year - Year
+WIT Freight | Transportation Coordinator | 2021 - Year
 
-Description of role and responsibilities.
+Coordinate/schedule Pickups and deliveries of customer goods with carrier, customer and warehouse.
